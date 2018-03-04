@@ -1,4 +1,4 @@
-#Scheduler with Pivotal Cloud Foundry
+# Scheduler with Pivotal Cloud Foundry
 
 This project contains 2 modules to deploy on Cloud Foundry. The [spring-scheduled](./spring-scheduled) module uses the `@Scheduled` annotation, and the [pcf-scheduler](./pcf-scheduler) module uses the PCF Scheduler service. 
 
